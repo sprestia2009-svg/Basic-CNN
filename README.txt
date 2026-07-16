@@ -2,4 +2,4 @@ These are projects I used to practice CNNs. As seen by the titles, I redid MNIST
 
 NumpyTest is my own AI which I created purely with Numpy. 
 
-I also tried my attempts with the Flowers dataset to practice extreme transformations but, as seen from the accuracy, I clearly struggled.
+I also tried my attempts with the Flowers dataset to practice extreme transformations.
